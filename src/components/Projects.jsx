@@ -38,7 +38,7 @@ const Projects = () => {
                         </a>
                       </button>
                       <button className="btn ">
-                        <a href="https://sanojkumaryadav.github.io/Swiggy-App/" target="_blank">
+                        <a href="https://sanojswiggyclone.netlify.app/" target="_blank">
                           <span>Click Me!!</span>
                           <span>Website</span>
                         </a>
@@ -74,7 +74,7 @@ const Projects = () => {
                         </a>
                       </button>
                       <button className="btn ">
-                        <a href="https://sanojkumaryadav.github.io/Zara-website" target="_blank">
+                        <a href="https://sanojzaraclone.netlify.app/" target="_blank">
                           {" "}
                           <span>Click Me!!</span>
                           <span>Website</span>
@@ -114,7 +114,7 @@ const Projects = () => {
                         </a>
                       </button>
                       <button className="btn ">
-                        <a href="https://sanojkumaryadav.github.io/VegMartWebsite/" target="_blank">
+                        <a href="https://sanojvegmartwebsite.netlify.app/" target="_blank">
                           <span>Click Me!!</span>
                           <span>Website</span>
                         </a>
@@ -153,7 +153,7 @@ const Projects = () => {
                         </a>
                       </button>
                       <button className="btn ">
-                        <a href="https://sanojreact.netlify.app/" target="_blank">
+                        <a href="https://sanoj-tetx-transform-in-react.netlify.app/" target="_blank">
                           <span>Click Me!!</span>
                           <span>Website</span>
                         </a>
@@ -191,7 +191,7 @@ const Projects = () => {
                         </a>
                       </button>
                       <button className="btn ">
-                        <a href="https://sanojkumaryadav.github.io/E-commerce-Pages/login.html" target="_blank">
+                        <a href="https://sanoj-e-commerce-pages.netlify.app/men.html" target="_blank">
                           {" "}
                           <span>Click Me!!</span>
                           <span>Website</span>
@@ -230,7 +230,7 @@ const Projects = () => {
                         </a>
                       </button>
                       <button className="btn ">
-                        <a href="https://sanojkumaryadav.github.io/Calculator/" target="_blank">
+                        <a href="https://sanojcalculator.netlify.app/" target="_blank">
                           {" "}
                           <span>Click Me!!</span>
                           <span>Website</span>
