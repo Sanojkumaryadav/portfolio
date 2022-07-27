@@ -15,7 +15,7 @@ const Projects = () => {
               <div className=" col-xl-4 col-md-6  my-4  ">
                 <div
                   className="card mx-auto"
-                  style={{ width: "22rem", height: "36rem" }}
+                  style={{ width: "21rem", height: "36rem" }}
                 >
                   <div class="embed-responsive embed-responsive-4by3">
                     <iframe
@@ -56,7 +56,7 @@ const Projects = () => {
               <div className="col-xl-4  col-md-6   my-4 ">
                 <div
                   className="card mx-auto"
-                  style={{ width: "22rem", height: "36rem" }}
+                  style={{ width: "21rem", height: "36rem" }}
                 >
                   <div class="embed-responsive embed-responsive-4by3">
                     <iframe
@@ -97,7 +97,7 @@ const Projects = () => {
               <div className="col-xl-4 col-md-6 my-4 ">
                 <div
                   className="card mx-auto"
-                  style={{ width: "22rem", height: "36rem" }}
+                  style={{ width: "21rem", height: "36rem" }}
                 >
                   <div class="embed-responsive embed-responsive-4by3">
                     <iframe
@@ -143,7 +143,7 @@ const Projects = () => {
               <div className="col-xl-4 col-md-6   my-4 ">
                 <div
                   className="card mx-auto"
-                  style={{ width: "22rem", height: "32rem" }}
+                  style={{ width: "21rem", height: "32rem" }}
                 >
                   <div class="embed-responsive embed-responsive-4by3">
                     <iframe
@@ -183,7 +183,7 @@ const Projects = () => {
               <div className="col-xl-4 col-md-6   my-4">
                 <div
                   className="card mx-auto"
-                  style={{ width: "22rem", height: "32rem" }}
+                  style={{ width: "21rem", height: "32rem" }}
                 >
                   <div class="embed-responsive embed-responsive-4by3">
                   <iframe
@@ -225,7 +225,7 @@ const Projects = () => {
               <div className="col-xl-4 col-md-6  my-4 ">
                 <div
                   className="card mx-auto"
-                  style={{ width: "22rem", height: "32rem" }}
+                  style={{ width: "21rem", height: "32rem" }}
                 >
                   <div class="embed-responsive embed-responsive-4by3">
                     <iframe
