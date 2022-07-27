@@ -3,12 +3,14 @@ import { Link } from "react-scroll/modules";
 import Flash from "react-reveal/Flash";
 import styles from "./header.module.css";
 
+
 import "./nav.css";
 import { ThemeContext } from "../context/ThemeContext";
 const Navbar = () => {
   const { isLight, toggleTheme } = useContext(ThemeContext);
   return (
-    <div className={styles.navbar}>
+   <div className="nav-fixed">
+     <div className={styles.navbar} >
       <ul className="topnav">
       <Flash>
           <li>
@@ -43,6 +45,7 @@ const Navbar = () => {
         </Flash>
       </ul>
     </div>
+   </div>
   );
 };
 

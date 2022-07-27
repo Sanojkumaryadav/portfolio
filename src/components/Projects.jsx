@@ -15,11 +15,11 @@ const Projects = () => {
               <div className=" col-xl-4 col-md-6  my-4  ">
                 <div
                   className="card mx-auto"
-                  style={{ width: "20rem", height: "28rem" }}
+                  style={{ width: "22rem", height: "36rem" }}
                 >
                   <div class="embed-responsive embed-responsive-4by3">
                     <iframe
-                      class="embed-responsive-item"
+                      class="embed-responsive-item" 
                       src="https://www.youtube.com/embed/Wku2r3VyxS0"
                     ></iframe>
                   </div>
@@ -27,8 +27,12 @@ const Projects = () => {
                   <div className="card-body">
                     <h5 className="card-title">Clone of Swiggy Website</h5>
                     <p className="card-text">
+                    Restaurent, Login, Signup and Restaurent details page, Add to Cart, Payment Section.
                     A collaborative project built by 4 Developers within 7 days.
-                    Tech Stack: HTML | CSS JavaScript JSON Server
+                    Area of Responsibility : Develop multiple filter options and search, offers and help page.
+                    <br/>
+                    <br/>
+                    Tech Stack: HTML | CSS | JavaScript | JSON Server.
                     </p>
                     <div className="container d-flex justify-content-between">
                       <button className="btn ">
@@ -52,7 +56,7 @@ const Projects = () => {
               <div className="col-xl-4  col-md-6   my-4 ">
                 <div
                   className="card mx-auto"
-                  style={{ width: "20rem", height: "28rem" }}
+                  style={{ width: "22rem", height: "36rem" }}
                 >
                   <div class="embed-responsive embed-responsive-4by3">
                     <iframe
@@ -63,7 +67,11 @@ const Projects = () => {
                   <div className="card-body">
                     <h5 className="card-title">Clone of Zara Website</h5>
                     <p className="card-text">
+                    Login , Signup Page and Create Account. Product Page, Add to Cart, Payment Section.
                     A collaborative project built by 4 Developers within 7 days.
+                    Area of Responsibility : Develop multiple product and product details page.
+                    <br/>
+                    <br/>
                     Tech Stack: HTML | CSS| JavaScript | Local Storage.
                     </p>
                     <div className="container d-flex justify-content-between">
@@ -89,7 +97,7 @@ const Projects = () => {
               <div className="col-xl-4 col-md-6 my-4 ">
                 <div
                   className="card mx-auto"
-                  style={{ width: "20rem", height: "28rem" }}
+                  style={{ width: "22rem", height: "36rem" }}
                 >
                   <div class="embed-responsive embed-responsive-4by3">
                     <iframe
@@ -100,10 +108,16 @@ const Projects = () => {
                   <div className="card-body">
                     <h5 className="card-title">Grocery Website</h5>
                     <p className="card-text">
-                    VegMart Website using HTML , CSS, JavaScript.
-                    In frontend part design home page, features page and product page
-                
+                    E-commerce app using HTML CSS and JavaScript we mainly focuses on frontend part.
+                    In frontend part design home page, features page, product page,  categories page, blog
+                    page, review page, add to card, search, login, create an account, footer and blogs page.
 
+          
+                    
+                    <br/>
+                    <br/>
+                    Tech Stack: HTML | CSS| JavaScript.
+              
                     </p>
                     <div className="container d-flex justify-content-between">
                       <button className="btn ">
@@ -129,7 +143,7 @@ const Projects = () => {
               <div className="col-xl-4 col-md-6   my-4 ">
                 <div
                   className="card mx-auto"
-                  style={{ width: "20rem", height: "28rem" }}
+                  style={{ width: "22rem", height: "32rem" }}
                 >
                   <div class="embed-responsive embed-responsive-4by3">
                     <iframe
@@ -140,10 +154,12 @@ const Projects = () => {
                   <div className="card-body">
                     <h5 className="card-title">Text-Transform</h5>
                     <p className="card-text">
-                   Text transform using React
-                  convert the text into uppercase and lowercase,
+                   Text transform convert the text into uppercase and lowercase,
                   it can count the number of words in your
                     text and number of characters.
+                    <br/>
+                    <br/>
+                    Tech Stack: HTML | CSS| JavaScript | React JS.
                     </p>
                     <div className="container d-flex justify-content-between">
                       <button className="btn ">
@@ -167,7 +183,7 @@ const Projects = () => {
               <div className="col-xl-4 col-md-6   my-4">
                 <div
                   className="card mx-auto"
-                  style={{ width: "20rem", height: "28rem" }}
+                  style={{ width: "22rem", height: "32rem" }}
                 >
                   <div class="embed-responsive embed-responsive-4by3">
                   <iframe
@@ -179,9 +195,12 @@ const Projects = () => {
                   <div className="card-body">
                     <h5 className="card-title">E-commerce Website</h5>
                     <p className="card-text">
-                    E-commerce web using HTML CSS JavaScript and local storage.
-                    In frontend part design mam page, Women page, signup page, categories
+                    E-commerce web app,
+                    In frontend part design man page, Women page, signup page, categories
                     and login page.
+                    <br/>
+                    <br/>
+                    Tech Stack: HTML | CSS| JavaScript | Local Storage.
                    </p>
                     <div className="container d-flex justify-content-between">
                       <button className="btn ">
@@ -206,7 +225,7 @@ const Projects = () => {
               <div className="col-xl-4 col-md-6  my-4 ">
                 <div
                   className="card mx-auto"
-                  style={{ width: "20rem", height: "28rem" }}
+                  style={{ width: "22rem", height: "32rem" }}
                 >
                   <div class="embed-responsive embed-responsive-4by3">
                     <iframe
@@ -217,9 +236,12 @@ const Projects = () => {
                   <div className="card-body">
                     <h5 className="card-title">Calculator</h5>
                     <p className="card-text">
-                    Calculator using HTML CSS and JavaScript
-                    Calculator with basics operations like multiplication,
+                    calculator where user can perform basic arithmetic operation.
+                    arithmetic operation like multiplication,
                     subtraction, multiplication, division and remainder.
+                    <br/>
+                    <br/>
+                    Tech Stack: HTML | CSS| JavaScript.
                     </p>
                     <div className="container d-flex justify-content-between">
                       <button className="btn ">

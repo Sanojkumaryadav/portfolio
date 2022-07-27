@@ -8,7 +8,7 @@ const Profile = () => {
          <div className="row  profile m-4 p-2">
          <Fade left>
              <div className="col-md-6  my-5 py-5">
-             <img src="mypic2.png" className="img-thumbnail rounded-circle" alt="mypic"/>
+             <img src="profile2.png" className="img-thumbnail rounded-circle" alt="mypic"/>
              </div>
              </Fade>
              <Fade right>
@@ -18,7 +18,7 @@ const Profile = () => {
                  <p className='text text-center  my-5 h3'>
                  💻Full-Stack web developer with a B.Tech degree in information Technology  who believes in sharing knowledge, 
                  loves JavaScript and can spare hours talking about it. My experience and learnings in this field have helped me 
-                 garner the required skill-set to be a successful web developer.
+                 garner the required skill-set to be a successful Full Stack Web Developer.
                  </p>
                </div>
                <a href="https://drive.google.com/file/d/16BNGBeryQ5-dkpYaHc_nm_sCxYHoJN3x/view?usp=sharing" target="_blank">
